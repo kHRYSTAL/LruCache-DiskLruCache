@@ -40,38 +40,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/R$layout.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/R$string.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/empty_photo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-ldpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/wsy/PhotoWallDemo/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/wsy/PhotoWallDemo/libcore/io/DiskLruCache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/wsy/PhotoWallDemo/Images.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/wsy/PhotoWallDemo/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/wsy/PhotoWallDemo/Manifest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/wsy/PhotoWallDemo/PhotoWallAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhotoWallDemo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/wsy/PhotoWallDemo/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ant.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ignore.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/photo_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proguard-project.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PhotoWallDemo.iws" />
@@ -505,6 +473,13 @@
       <option name="number" value="Default" />
       <updated>1434206853812</updated>
     </task>
+    <task id="LOCAL-00001" summary="完成功能第一次提交">
+      <created>1434261802778</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1434261802778</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -550,6 +525,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="完成功能第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成功能第一次提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
