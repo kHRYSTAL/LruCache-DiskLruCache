@@ -17,30 +17,8 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.wsy.PhotoWallDemo" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6de33e7a-1f98-423a-adab-94440119ce82" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/BuildConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/libcore/io/DiskLruCache$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/libcore/io/DiskLruCache$Editor$FaultHidingOutputStream.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/libcore/io/DiskLruCache$Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/libcore/io/DiskLruCache$Entry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/libcore/io/DiskLruCache$Snapshot.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/libcore/io/DiskLruCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/Images.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/MainActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/MainActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/PhotoWallAdapter$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/PhotoWallAdapter$BitmapWorkerTask.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/PhotoWallAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/PhotoWallDemo.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/PhotoWallDemo.unaligned.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/R$attr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/R$dimen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/R$drawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/R$layout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="6de33e7a-1f98-423a-adab-94440119ce82" name="Default" comment="第二次">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PhotoWallDemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -75,8 +53,8 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/wsy/PhotoWallDemo/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6262231">
-              <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.24097939">
+              <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -479,12 +457,18 @@
       <option name="project" value="LOCAL" />
       <updated>1434261802778</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第二次">
+      <created>1434261840072</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1434261840072</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -494,7 +478,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41958886" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -528,7 +512,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="完成功能第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成功能第一次提交" />
+    <MESSAGE value="第二次" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -808,10 +793,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/PhotoWallDemo/com/wsy/PhotoWallDemo/libcore/io/DiskLruCache$1.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wsy/PhotoWallDemo/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6262231">
-          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.24097939">
+          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
           <folding />
         </state>
       </provider>
